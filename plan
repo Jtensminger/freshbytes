@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Plan</title>
+    <style>
+        body {
+            background-color: #0d0d0d;
+            color: #ffffff;
+            font-family: 'Courier New', Courier, monospace;
+            line-height: 1.8;
+            margin: 20px;
+            padding: 0 20% 0 20%;
+            /* Enhanced readability - larger font and spacing */
+            font-size: 18px;
+        }
+        h1, h2 {
+            color: #ff007f; /* Neon pink for headings */
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 3px solid #00ffff; /* Neon cyan border */
+            padding-bottom: 10px;
+        }
+        p {
+            margin: 20px 0;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-top: 40px;
+        }
+        strong {
+            color: #00ffff; /* Neon cyan for emphasis */
+        }
+        a {
+            color: #ff007f;
+        }
+        a:hover {
+            color: #00ffff;
+            text-shadow: 0 0 5px #00ffff;
+        }
+        /* Adding glow effect for the futuristic vibe */
+        body, h1, h2, p {
+            text-shadow: 0 0 10px rgba(255, 0, 127, 0.75), 0 0 20px rgba(0, 255, 255, 0.5);
+        }
+        p:hover {
+            color: #00ffff;
+            text-shadow: 0 0 5px #ff007f, 0 0 10px #00ffff;
+        }
+                /* Section dividers */
+        hr {
+            border: 1px solid #00ffff;
+            margin: 50px 0;
+        }
+        .highlight {
+            background-color: rgba(255, 0, 127, 0.2);
+            padding: 5px 10px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        /* Cyberpunk grid layout */
+        .container {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .chart-container {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .chart-container img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #ff007f;
+        }
+    </style>
+</head>
+<body><div class="container">
+    <h1>Banana Bytes</h1>
+    <h2>Vision</h2>
+    <p>
+        To revolutionize the dessert industry by merging robotics and tropical flavors, creating a seamless, eco-friendly, and interactive dessert experience that merges the futuristic aesthetic of cyberpunk with the laid-back vibe of a tropical paradise. <span class="highlight">We deliver healthy, customizable frozen banana desserts through fully autonomous, robotic kiosks.</span>
+    </p>
+        <!-- Robotic Kiosk -->
+        <section class="chart-container">
+            <img src="banana_example.jpg" alt="Banana Example">
+        </section>
+
+    <h2>Problem/Solution</h2>
+    <strong>Problem:</strong> Consumers demand convenient, fast, and healthier dessert options, but labor costs, inconsistency in quality, and long wait times often compromise customer experience in traditional stands or stores.
+    <br><strong>Solution:</strong> Our fully automated kiosks serve consistent, customizable frozen banana desserts with zero wait time and no human labor. By utilizing robotics and AI, we reduce overhead costs while maintaining high-quality, personalized service.
+    <!-- Robotic Kiosk -->
+    <section class="chart-container">
+        <img src="kiosk_example.png" alt="Robotic Kiosk Example">
+    </section>
+
+    <h2>Target Market</h2>
+    <strong>Primary Market:</strong> Health-conscious, tech-savvy consumers in urban areas who value convenience, customization, and sustainability.<br>
+    <strong>Secondary Market:</strong> Tourists and event-goers seeking quick, fun, and healthy dessert options. Focused on high-traffic areas like parks, shopping malls, tech hubs, festivals, and transportation centers.
+    <!-- Distribution Chart -->
+    <section class="chart-container">
+        <img src="distribution.png" alt="Distribution Chart">
+    </section>
+
+    <h2>Unique Value Proposition</h2>
+    <ul>
+        <li><strong>Autonomous Operation:</strong> Fully automated kiosks offering freshly frozen bananas dipped in customizable toppings, prepared by robotic arms for an engaging and consistent experience.</li>
+        <li><strong>Health-Conscious:</strong> Banana-based frozen desserts cater to modern dietary trends (plant-based, low-calorie, gluten-free) with customization options for every preference.</li>
+        <li><strong>Cyberpunk Meets Tropics:</strong> A brand aesthetic blending neon-lit futurism with tropical flair, creating a visually striking, memorable customer experience.</li>
+        <li><strong>Scalability:</strong> With robotic kiosks, we can rapidly scale operations across multiple locations while maintaining low operational costs and high efficiency.</li>
+    </ul>
+
+    <h2>Revenue Streams</h2>
+    <!-- Revenue & Cost Chart -->
+    <section class="chart-container">
+        <img src="revenue_cost.png" alt="Revenue and Cost Chart">
+    </section>
+    <ul>
+        <li><strong>Product Sales:</strong> Selling customizable frozen banana desserts directly to consumers through kiosks.</li>
+        <li><strong>Brand Partnerships:</strong> Collaborating with food delivery platforms for pick-up orders and promoting the product through their networks.</li>
+        <li><strong>Licensing/Franchising:</strong> Offering our autonomous kiosks to entrepreneurs or event spaces for a licensing fee.</li>
+        <li><strong>Data Sales:</strong> Selling access to our massive pools of robotics data generated from our operations.</li>
+    </ul>
+
+    <h2>Key Partners</h2>
+    <ul>
+        <li><strong>Robotics and AI Vendors:</strong> Integrate cutting edge robotics and AI models to build the kiosks.</li>
+        <li><strong>Food Suppliers:</strong> Sourcing fresh, sustainable bananas and high-quality toppings (e.g., chocolate, nuts, sprinkles).</li>
+        <li><strong>Community Hubs and Event Organizers:</strong> Strategic placement of kiosks in locations with high foot traffic.</li>
+        <li><strong>Delivery Platforms:</strong> Partnering with UberEats, DoorDash, and similar platforms for quick pick-up and delivery options.</li>
+    </ul>
+
+    <h2>Cost Structure</h2>
+    <ul>
+        <li><strong>Capital Expenditure:</strong> Initial investment in kiosk design and development, including robotics, AI systems, and kiosk infrastructure.</li>
+        <li><strong>Operating Expenses:</strong> Ingredients, maintenance of robotic systems, energy, and utilities for kiosks, plus minor staffing for remote monitoring.</li>
+        <li><strong>Marketing:</strong> Digital marketing, social media campaigns, influencer partnerships, and branding.</li>
+        <li><strong>Maintenance & Repairs:</strong> Ongoing technical support and periodic updates to the kiosks.</li>
+    </ul>
+
+    <h2>Marketing and Growth Strategy</h2>
+    <ul>
+        <li><strong>Digital Campaigns:</strong> Promote the futuristic and eco-friendly aspects of the brand via social media (Instagram, TikTok), influencers, and online ads.</li>
+        <li><strong>Pop-Up Events:</strong> Launch temporary pop-up kiosks at tech conferences, music festivals, and high-traffic events to create buzz.</li>
+        <li><strong>Local Partnerships:</strong> Collaborate with gyms, health food stores, and eco-conscious brands to co-market the dessert as a healthy indulgence.</li>
+    </ul>
+
+    <h2>Go To Market Strategy</h2>
+    <ol>
+        <li><strong>Build Core Team & Raise Funding:</strong><p>Raise pre-seed and assemble a talented team of chefs, mechanical, eletrical, and software engineers</p></li>
+        <li><strong>Prototype the Banana Byte Autonomous Kiosk:</strong><p>Design and build a working prototype of the autonomous kiosk to test the robotics and customer experience in real-world conditions.</p></li>
+        <li><strong>Deploy Pilot Locations:</strong><p>Launch initial kiosks in high-traffic urban areas to gather customer feedback, generate brand awareness, and refine operations.</p></li>
+        <li><strong>Scale Locations in Clusters:</strong><p>Strategically expand by rolling out multiple kiosks in nearby high-demand locations to maximize brand presence and operational efficiency.</p></li>
+        <li><strong>Optimize Pricing & Supplier Logistics:</strong><p>Fine-tune pricing strategies and streamline supply chains to reduce costs and enhance profit margins.</p></li>
+        <li><strong>Expand Product Line:</strong><p>Introduce new customizable frozen desserts and toppings to appeal to a broader audience and drive repeat business.</p></li>
+        <li><strong>Train Foundational Robotics Manipulation Model:</strong><p>Develop and train a foundational machine learning model for the autonomous robotic arm that focuses on key manipulation tasks such as grasping, picking, and placing, ensuring smooth and reliable performance in real-world operations.</p></li>
+    </ol>
+    <h2>Forecasts</h2>
+    <!-- Revenue & Cost Chart -->
+    <section class="chart-container">
+        <img src="revenue_cost.png" alt="Revenue and Cost Chart">
+    </section>
+    <!-- Desserts Served -->
+    <section class="chart-container">
+        <img src="desserts_served.png" alt="Desserts Served Chart">
+    </section>
+    <!-- Locations -->
+    <section class="chart-container">
+        <img src="locations.png" alt="Locations Chart">
+    </section>
+    <!-- Headcount -->
+    <section class="chart-container">
+        <img src="headcount.png" alt="Headcount Chart">
+    </section>
+</div></body>
+</html>
